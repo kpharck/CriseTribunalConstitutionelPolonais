@@ -1,3 +1,11 @@
+---
+title: "Pologne • Crise du Tribunal Constitutionnel 2015–2026"
+author: "Piotr Muszynski"
+fontsize: 9pt
+geometry: margin=2cm
+mainfont: "DejaVu Serif"
+lang: fr
+---
 # POLOGNE • CRISE DU TRIBUNAL CONSTITUTIONNEL
 ## 2015–2026
 

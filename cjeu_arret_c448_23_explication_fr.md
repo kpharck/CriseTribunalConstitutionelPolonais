@@ -1,3 +1,11 @@
+---
+title: "Arrêt de la CJUE du 18 décembre 2025"
+author: "Piotr Muszynski"
+fontsize: 9pt
+geometry: margin=2cm
+mainfont: "DejaVu Serif"
+lang: fr
+---
 # Arrêt de la CJUE du 18 décembre 2025 : le Tribunal constitutionnel polonais ne remplit pas les exigences d’indépendance et d’impartialité d’une juridiction établie par la loi  
 **(affaire C-448/23, Commission européenne c. République de Pologne)**
 

@@ -1,3 +1,11 @@
+---
+title: "Arrêt de la CEDH dans l’affaire Xero Flor"
+author: "Piotr Muszynski"
+fontsize: 9pt
+geometry: margin=2cm
+mainfont: "DejaVu Serif"
+lang: fr
+---
 # Arrêt de la CEDH dans l’affaire *Xero Flor w Polsce sp. z o.o. c. Pologne*  
 **(requête n° 4907/18, arrêt du 7 mai 2021, définitif le 7 août 2021)**
 

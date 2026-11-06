@@ -1,3 +1,11 @@
+---
+title: "Compétence des institutions extérieures sur le TC polonais"
+author: "Piotr Muszynski"
+fontsize: 9pt
+geometry: margin=2cm
+mainfont: "DejaVu Serif"
+lang: fr
+---
 # Les institutions extérieures à la Pologne ont-elles le pouvoir de rendre des arrêts contraignants concernant le Tribunal constitutionnel polonais ?
 
 **Oui.** Au regard des traités ratifiés par la Pologne, deux institutions disposent de bases juridiques pour rendre des arrêts qui engagent la Pologne dans des domaines déterminés et qui concernent (entre autres) le Tribunal constitutionnel (Trybunał Konstytucyjny – TK).
