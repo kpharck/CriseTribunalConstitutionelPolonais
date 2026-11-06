@@ -3,8 +3,15 @@
 
 ### Chronologie principale
 
+- **10 et 24 mai 2015**  
+  Élections présidentielles (1er et 2e tour). Andrzej Duda (soutenu par le PiS) est élu face au président sortant Bronisław Komorowski.
+
 - **Juin 2015**  
   Adoption de la loi sur le Tribunal constitutionnel (TK) avec disposition transitoire (art. 137) permettant au Sejm VII (majorité PO-PSL) d’élire cinq juges dont les mandats se terminaient en 2015.
+
+- **6 août 2015**  
+  Fin du mandat de Bronisław Komorowski.  
+  Début du mandat d’Andrzej Duda (6 août 2015 – 6 août 2025).
 
 - **8 octobre 2015**  
   Le Sejm VII élit cinq juges (trois pour les postes se libérant en novembre, deux pour décembre).
@@ -39,6 +46,13 @@
 - **Décembre 2024**  
   Nomination de Bogdan Święczkowski à la présidence du TK par le président Duda.
 
+- **18 mai et 1er juin 2025**  
+  Élections présidentielles (1er et 2e tour). Karol Nawrocki (soutenu par le PiS) est élu.
+
+- **6 août 2025**  
+  Fin du mandat d’Andrzej Duda.  
+  Début du mandat de Karol Nawrocki (6 août 2025 – 6 août 2030).
+
 - **Décembre 2025**  
   Arrêt de la CJUE : le Tribunal constitutionnel polonais ne remplit pas les exigences d’indépendance et d’impartialité d’une juridiction établie par la loi.
 
@@ -52,6 +66,11 @@
   Escalade : Anna Korwin-Piotrowska ordonne une interruption des fonctions du président Święczkowski et de son vice-président ; revendications concurrentes de direction ; intervention policière et tensions dans les locaux du Tribunal.
 
 ---
+
+### Présidence de la République
+- **Bronisław Komorowski** : jusqu’au 6 août 2015  
+- **Andrzej Duda** : 6 août 2015 – 6 août 2025  
+- **Karol Nawrocki** : depuis le 6 août 2025
 
 ### Présidence du TK
 - **Décembre 2016 – décembre 2024** : Julia Przyłębska  
